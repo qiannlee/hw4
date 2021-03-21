@@ -1,0 +1,144 @@
+html{
+	background-color: #EDF2C5;
+	box-sizing: border-box;
+}
+.container{
+	margin:0 auto;
+	max-width: 940px;
+	max-height: 880px;
+	background-color: #EDF2C5;
+	box-sizing: border-box;
+}
+
+
+.header{
+	font-family: arial black;
+	color: #778A50;
+	box-sizing: border-box;
+	float: left;
+	
+}
+
+.topright{
+	display: flex;
+	padding-top: 3px;
+	max-height: 25px;
+	padding-top: 33px;
+	padding-left: 540px;
+}
+
+.toprightimg{
+	margin-right: 10px;
+}
+
+
+
+.menuborder{
+	background-color: #778A50;
+	width: 940px;
+	height: 43px;
+	padding-left: 0px;
+	margin-bottom: 20px;
+	border-radius: 3px;
+
+}
+
+li{
+	display: inline-flex;
+	box-sizing: border-box;
+	padding-right: 60px;
+	padding-top: 10px;
+	font-family: arial black;
+	font-size: 16px;
+	color: #EDF2C5;
+	
+}
+
+.pumkin{
+	width: 940px;
+	height: 440px;
+	margin-bottom: 30px;
+}
+
+.content: {
+	display: inline-flex;
+
+
+}
+.left{
+	float: left;
+}
+.lefthead{
+
+	font-family: arial black;
+	font-size: 16px;
+	color: #EDF2C5;
+	background-color: #778A50;
+	margin-bottom: 15px;
+	border-radius: 3px;
+	width: 445px;
+	height: 45px;
+	padding-top: 10px;
+	padding-left: 30px;
+	box-sizing: border-box;
+}
+
+.leftcontent{
+	display: flex;
+	width: 445px;
+	justify-content: space-between;
+	margin-bottom: 35px;
+}
+
+.right{
+	float: right;
+}
+
+.righthead{
+	font-family: arial black;
+	font-size: 16px;
+	color: #EDF2C5;
+	background-color: #778A50;
+	margin-bottom: 16px;
+	border-radius: 3px;
+	width: 445px;
+	height: 45px;
+	padding-top: 10px;
+	padding-left: 30px;
+	box-sizing: border-box;
+}
+
+.rightcontent{
+	background-color: #F7FBDA;
+	width: 445px;
+	height: 140px;
+	border-radius: 3px;
+	font-family: arial;
+	font-weight: regular;
+	font-size: 12px;
+	color: #7D7D7D;
+	padding-top: 15px;
+	box-sizing: border-box;
+	padding-left: 16px;
+	margin-bottom: 35px;
+}
+
+.footerborder{
+	display: flex;
+	box-sizing: border-box;
+	width: 1260px;
+	height:60px;
+	background-color: #778A50;
+ 	box-sizing: border-box;
+ 	 	
+}
+
+.footer {
+	box-sizing: border-box;
+	padding-left: 479px;
+	font-family: Arial;
+	font-size: 12px;
+	color: #EDF2C5;
+	text-align: center;
+	padding-top: 24px;
+}
